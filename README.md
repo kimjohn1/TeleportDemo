@@ -2,7 +2,7 @@ This is a complete Unity Project.  You can download it and open it as a project 
 the XR Interaction Toolkit Starter Assets Sample and XR Plugin Management.  You will also need to do the XR Plugin Management setup in Edit -> Project
 Settings, as normally done.
 
-The project is just a green plane with a couple of cubes, a sphere, acapsule and a cylinder.  The entire green plane is teleportable.  Push the right 
+The project is just a green plane with a couple of cubes, a sphere, a capsule and a cylinder.  The entire green plane is teleportable.  Push the right 
 controller joystick full forward and hold to cast a ray in front of you.  The ray is green indicating that a teleport will be successful.  Release the 
 joystick to jump to the end point of the ray.  Most of the objects on the plane are grabbable and can be grabbed using the controller ray.  The 
 interactable ray is blue and will extend and bend toward an object that can be grabbed.  Grab it with the ray using the grab button.  With the object
