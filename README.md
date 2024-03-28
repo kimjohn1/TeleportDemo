@@ -16,6 +16,6 @@ front of the player.  This left/right reticle control is what I imagine could be
 
 Setting this project up to have Raycast Teleport, remote grab, locomotion by flying, rotation using right or left controller joystick, Fore and Aft 
 movement on the left controller and Raycast/180 rotate on the right controller, and gaze (head directed) steering took about an hour.  All of that
-functionality is in a pre-packaged object in the XR Interaction Toolkit Samles set, that can be drug to the Hierarchy panel.  After that you make a couple 
+functionality is in a pre-packaged object in the XR Interaction Toolkit Samples set, that can be drug to the Hierarchy panel.  After that you make a couple 
 of changes/additions to customize the functions as desired and it all just works.  I generally followed Ryan Murray's video, "Setup Teleporting in Unity
 XR Interaction Toolkit".
